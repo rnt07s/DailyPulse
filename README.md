@@ -62,7 +62,7 @@ A modern Flutter mobile application that helps users log their daily emotional s
 
 #### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rnt07s/DailyPulse
 cd dailypulse
 ```
 
@@ -223,11 +223,7 @@ This project is created for educational purposes.
 
 ## 🙏 Credits
 
-Built with ❤️ using:
-- Flutter & Dart
-- Material Design 3
-- Firebase
-- Google Fonts (Inter)
+Built with ❤️ 
 
 ---
 
