@@ -197,26 +197,6 @@ Potential features for expansion:
 - Multi-device sync improvements
 - Social features (optional mood sharing)
 
-## 🧪 Testing
-
-### Manual Testing Checklist
-- [ ] Create account and login
-- [ ] Log multiple mood entries
-- [ ] Verify data persists after app restart
-- [ ] Test analytics calculations
-- [ ] Switch themes and verify UI
-- [ ] Test sign out and sign in again
-- [ ] Verify mood entries sync to Firestore
-
-## 🤝 Contributing
-
-This is an educational project, but contributions are welcome:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## 📝 License
 
 This project is created for educational purposes.
